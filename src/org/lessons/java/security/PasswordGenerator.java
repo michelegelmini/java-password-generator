@@ -29,7 +29,7 @@ public class PasswordGenerator {
 		int yearOfBirth = input.nextInt();
 		
 
-		System.out.println("La tua password è: "+firstName+lastName+favouriteColor+dayOfBirth+"-"+monthOfBirth+"-"+yearOfBirth);
+		System.out.println("La tua password è: "+firstName+"-"+lastName+"-"+favouriteColor+"-"+dayOfBirth+"-"+monthOfBirth+"-"+yearOfBirth);
 		
 		
 		
